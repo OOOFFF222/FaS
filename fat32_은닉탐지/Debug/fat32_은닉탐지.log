@@ -1,0 +1,20 @@
+﻿  fat32_hidden.c
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(14,25): warning C4244: '함수': 'unsigned __int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(32,22): warning C4244: '함수': 'unsigned __int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(33,28): warning C4244: '함수': 'unsigned __int64'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(40,25): warning C4244: '함수': 'unsigned __int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(41,31): warning C4244: '함수': 'unsigned __int64'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(53,41): warning C4013: 'fat_yet_re'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(59,60): warning C4013: 'calloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(62,20): warning C4244: '함수': 'unsigned __int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(63,24): warning C4244: '함수': 'unsigned __int64'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(69,20): warning C4244: '함수': 'unsigned __int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(70,24): warning C4244: '함수': 'unsigned __int64'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(75,11): warning C4477: 'printf' : 서식 문자열 '%04x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(75,11): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(75,11): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(75,11): warning C4477: 'printf' : 서식 문자열 '%04x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(75,11): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+D:\programming\FaS\fat32_은닉탐지\fat32_hidden.c(75,11): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+  fat32_은닉탐지.vcxproj -> D:\programming\FaS\fat32_파싱\Debug\fat32_은닉탐지.exe

@@ -1,0 +1,9 @@
+﻿  fat32_pasing.c
+D:\programming\FaS\fat32_파싱\fat32_pasing.c(15,41): warning C4013: 'fat_yet_re'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\programming\FaS\fat32_파싱\fat32_pasing.c(42,27): warning C4244: '함수': 'unsigned __int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\programming\FaS\fat32_파싱\fat32_pasing.c(51,9): warning C4477: 'printf' : 서식 문자열 '%08x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+D:\programming\FaS\fat32_파싱\fat32_pasing.c(51,9): message : 서식 문자열에서 '%llx'을(를) 사용하는 것이 좋습니다.
+D:\programming\FaS\fat32_파싱\fat32_pasing.c(51,9): message : 서식 문자열에서 '%I64x'을(를) 사용하는 것이 좋습니다.
+  fat32_기본크기.c
+  코드를 생성하고 있습니다...
+  fat32_파싱.vcxproj -> D:\programming\FaS\fat32_파싱\Debug\fat32_파싱.exe
